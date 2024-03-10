@@ -18,3 +18,8 @@ The repository is organized as follows:
 
 This collection serves not only as a personal portfolio but also as a resource for others interested in data science, statistical modeling, and applied mathematics.
 
+### Applied Statistics -- Regression Analysis
+
+- Multiple Linear Regression 
+- Dummy Variable Regression 
+- Residual Analysis
