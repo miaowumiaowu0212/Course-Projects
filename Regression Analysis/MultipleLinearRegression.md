@@ -1,4 +1,4 @@
-# APM 630 Regression Analysis
+#Regression Analysis
 
 ## Project #1 – Multiple Linear Regression
 
