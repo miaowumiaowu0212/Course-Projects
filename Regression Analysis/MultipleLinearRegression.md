@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # Regression Analysis
+=======
+#Regression Analysis
+>>>>>>> 1a11616ac307facaae92b6c56b24c9ecd5a79008
 
 ## Project #1 – Multiple Linear Regression
 
