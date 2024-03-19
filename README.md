@@ -23,3 +23,10 @@ This collection serves not only as a personal portfolio but also as a resource f
 - Multiple Linear Regression 
 - Dummy Variable Regression 
 - Residual Analysis
+
+
+## Dataquest -- Public Project
+- Project: Profitable App Profiles for the App Store and Google Play Markets
+- Project: Exploring Hacker News Posts
+- Project: Exploring eBay Car Sales Data
+- Project: FInding Heavy Traffic Indicators on I-94 Highway
